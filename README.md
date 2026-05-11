@@ -8,7 +8,7 @@ Feel free to reach out to me via email or LinkedIn if you want to chat or collab
 
 ### Current work
 
-- Developing a geospatial database and map summarizing present knowledge of groundwater in Antarctica ([https://github.com/iandalekelly/SCAR_Groundwater_Treasure_Map](repository link)).
+- Developing a geospatial database and map summarizing present knowledge of groundwater in Antarctica ( [https://github.com/iandalekelly/SCAR_Groundwater_Treasure_Map](repository link) ).
 - Developing an inversion framework for HVSRs using peak and trough frequencies ([https://github.com/iandalekelly/HVSRs-PeakAndTroughFreqs](repository link)).
 - Creating a continental map of Antarctic crustal structure from single-station passive seismic methods.
 
