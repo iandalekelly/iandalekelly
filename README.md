@@ -6,10 +6,14 @@ I'm presently a postdoctoral researcher at the University of Tasmania, Australia
 
 Feel free to reach out to me via email or LinkedIn if you want to chat or collaborate: [ian.kelly@utas.edu.au](ian.kelly@utas.edu.au) or [https://www.linkedin.com/in/iandalekelly/](https://www.linkedin.com/in/iandalekelly/).
 
+### Previous work
+
+- Developing a framework to interpret subglacial low-velocity zones of sediments/water-saturated rocks from horizontal-to-vertical spectral ratios (HVSRs) of seismic ambient noise ([repository link](https://github.com/iandalekelly/HVSRs-AntarcticIBIZ)).
+
 ### Current work
 
 - Developing a geospatial database and map summarizing present knowledge of groundwater in Antarctica ([repository link](https://github.com/iandalekelly/SCAR_Groundwater_Treasure_Map)).
-- Developing an inversion framework for HVSRs using peak and trough frequencies ([repository link](https://github.com/iandalekelly/HVSRs-PeakAndTroughFreqs)).
+- Developing a robust inversion framework for HVSRs using peak and trough frequencies ([repository link](https://github.com/iandalekelly/HVSRs-PeakAndTroughFreqs)).
 - Creating a continental map of Antarctic crustal structure from single-station passive seismic methods.
 
 ### Also see
